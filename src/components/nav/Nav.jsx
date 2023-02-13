@@ -9,11 +9,11 @@ import {BiMessageSquareDetail} from 'react-icons/bi'
 const Nav = () => {
   return (
     <nav>
-        <a href='https://www.linkedin.com/in/sukhdeep-singh-sandhu-a2abb94b/'><AiOutlineHome/></a>
-        <a href='https://www.linkedin.com/in/sukhdeep-singh-sandhu-a2abb94b/'><AiOutlineUser/></a>
-        <a href='https://www.linkedin.com/in/sukhdeep-singh-sandhu-a2abb94b/'><BiBook/></a>
-        <a href='https://www.linkedin.com/in/sukhdeep-singh-sandhu-a2abb94b/'><RiServiceLine/></a>
-        <a href='https://www.linkedin.com/in/sukhdeep-singh-sandhu-a2abb94b/'><BiMessageSquareDetail/></a>
+        <a href='#'><AiOutlineHome/></a>
+        <a href='#about'><AiOutlineUser/></a>
+        <a href='#experience'><BiBook/></a>
+        <a href='#services'><RiServiceLine/></a>
+        <a href='#contact'><BiMessageSquareDetail/></a>
     </nav>
   )
 }
