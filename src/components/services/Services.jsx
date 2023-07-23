@@ -8,7 +8,7 @@ const Services = () => {
       <div className="container services__container">
         <article className="service">
           <div className="service__head">
-            <h3></h3>
+            <h3>hello</h3>
           </div>
         </article>
       </div>
